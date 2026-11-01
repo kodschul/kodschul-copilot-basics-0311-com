@@ -45,8 +45,8 @@
 ## Technik-Check vor dem Start
 
 1. Öffne Outlook, Teams, Word, PowerPoint und Excel und prüfe, ob jeweils das Copilot-Symbol erscheint.
-2. Kopiere alle `.docx`- und `.xlsx`-Dateien aus `project/` in einen eigenen Ordner im OneDrive, z. B. `OneDrive/Copilot-Kurs/`.
-3. Öffne Copilot Chat in der Microsoft 365 Copilot App und prüfe, ob **Work IQ** eingeschaltet ist (ältere Oberfläche: Registerkarte „Arbeit").
+2. Kopiere alle `.docx`- und `.xlsx`-Dateien aus `project/` in einen eigenen Ordner im OneDrive, z. B. `OneDrive/Copilot-Kurs/`. Die Prompts für alle Übungen stehen in [`prompt-karten.md`](../prompt-karten.md).
+3. Öffne Copilot Chat in der Microsoft 365 Copilot App und prüfe, ob **Work IQ** (Schalter für die eigenen Arbeitsdaten) eingeschaltet ist (ältere Oberfläche: Registerkarte „Arbeit").
 4. Tippe `/nordwind` in das Chatfeld und prüfe, ob die kopierten Dateien zur Auswahl erscheinen.
 
 ## Szenario

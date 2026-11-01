@@ -129,6 +129,8 @@ _Verwendet in [Lab 3.1](m03-word-powerpoint/l01-word-hitl/l01-word-hitl-exc.md).
 
 ## Prompt-Karte 5 – Fünf Folien aus dem Bericht
 
+Weicht die eigene Gliederung aus Lab 3.1 ab, ersetze die fünf Folientitel durch die eigenen Abschnitte.
+
 **Basis** (zum Kopieren):
 
 Präsentation erstellen:

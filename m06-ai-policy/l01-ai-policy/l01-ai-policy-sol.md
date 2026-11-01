@@ -24,6 +24,7 @@ Allgemeine Orientierung, keine Rechtsberatung. Wo die eigene KI-Richtlinie stren
 | ------- | -------- |
 | Ablageort der KI-Richtlinie | Intranet → Richtlinien → KI-Richtlinie (Pfad im eigenen Unternehmen) |
 | Ansprechperson | die in der KI-Richtlinie genannte Stelle, z. B. Datenschutz oder IT-Sicherheit |
+| unbekannt | als offene Frage notiert: „Wo liegt unsere KI-Richtlinie, wer beantwortet Fragen?“, nach dem Kurs mit Führungskraft oder IT klären |
 
 ## Erweiterung
 

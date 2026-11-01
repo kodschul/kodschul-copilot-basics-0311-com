@@ -12,7 +12,7 @@
 
 Teilnehmerunterlagen des Kurses **„Microsoft 365 Copilot kompakt – Möglichkeiten entdecken und direkt anwenden"**. Im Szenario Nordwind Consulting entsteht eine Kette aus Mailantwort, Aufgabenliste, Statusbericht, Präsentation und Ticketauswertung; am Ende steht ein eigener Agent „Nordwind IT-Helfer", dessen Anweisung Copilot selbst entworfen hat.
 
-Jedes Lab besteht aus drei Dateien: Theorie (`-thx.md`), Übung (`-exc.md`) und Lösung (`-sol.md`). Alle Prompts zum Kopieren stehen in [`prompt-karten.md`](prompt-karten.md), alle Quizfragen mit Lösung in [`quiz-fragen.md`](quiz-fragen.md).
+Jedes Lab besteht aus drei Dateien: Theorie (`-thx.md`), Übung (`-exc.md`) und Lösung (`-sol.md`). Alle Prompts zum Kopieren stehen in [`prompt-karten.md`](prompt-karten.md), alle Quizfragen mit Lösung zum Wiederholen nach dem Kurs in [`quiz-fragen.md`](quiz-fragen.md).
 
 ## Auf einen Blick
 

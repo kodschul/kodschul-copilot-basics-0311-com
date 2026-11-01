@@ -11,7 +11,7 @@ Bei Nordwind Consulting ist Microsoft 365 Copilot (mit Work IQ) freigegeben, ebe
 1. Beantworte die fünf Quizfragen mit A, B oder C.
 2. Notiere zu jeder Antwort die Regel (Nr. 1–6) aus der Theorie, die den Ausschlag gibt.
 3. Schreibe eine persönliche Checkliste mit drei Fragen, die vor der nächsten Copilot-Nutzung geprüft werden.
-4. Ergänze die Checkliste um den Ablageort der KI-Richtlinie des eigenen Unternehmens und die Ansprechperson für Fragen.
+4. Ergänze die Checkliste um den Ablageort der KI-Richtlinie des eigenen Unternehmens und die Ansprechperson für Fragen. Ist eines davon unbekannt, notiere es als offene Frage und kläre es nach dem Kurs mit der Führungskraft oder der IT.
 
 ## Quiz
 
