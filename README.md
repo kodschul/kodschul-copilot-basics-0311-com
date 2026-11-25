@@ -27,31 +27,34 @@ Halbtags-Workshop · Microsoft 365 Copilot · Deutsch
 | **Vorkenntnisse** | keine |
 | **Werkzeuge** | Microsoft 365 mit Copilot (Outlook, Teams, Excel, Word, PowerPoint) |
 | **Szenario** | Projekt Koch29: Modernisierung von 48 Wohnungen |
-| **Material** | drei Dokumente, drei Übungsdateien |
+| **Material** | ein Ordner je Modul, eine Seite je Lab, drei Übungsdateien |
 
 ## Start
 
 1. Übungsdateien aus [project/](project/) ins eigene OneDrive kopieren.
-2. [Teil 1 · Copilot verstehen und gut fragen](01-grundlagen.md) öffnen.
+2. [Kursüberblick](00-ueberblick.md) lesen.
+3. Mit [Lab 1.1](m01-copilot-intro/l01-copilot-basics.md) beginnen.
 
 ## Module
 
-| Teil | Modul | Inhalt | Ergebnis |
-| ---- | ----- | ------ | -------- |
-| [1](01-grundlagen.md) | 1 · Was ist Copilot? | Assistent, drei Botschaften, Chat vs. Vollversion, Copilot-App | Überblick |
-| | 2 · Gute Prompts schreiben | Prompt-Formel, Übung Koch29, Folgeprompts | eigener Prompt |
-| [2](02-praxis.md) | 3 · Outlook | zusammenfassen, antworten, Ton anpassen | geprüfter Antwortentwurf |
-| | 4 · Teams | Besprechungen und Chats auswerten | Aufgabenliste |
-| | 5 · Excel | Abweichungen berechnen, auswerten, Diagramm | Top 3 der Überschreitungen |
-| | 6 · Word | Bericht aus Stichpunkten, überarbeiten, Tabelle | Statusbericht |
-| | 7 · PowerPoint | Präsentation erstellen, verbessern, Fragen vorbereiten | Präsentationsentwurf |
-| [3](03-spickzettel-und-loesungen.md) | 8 · Sicherer Umgang | Prüf-Checkliste, Spickzettel | Lösungen zu allen Übungen |
+| Modul | Labs | Ergebnis |
+| --- | --- | --- |
+| 1 · Was ist Copilot? | [1.1 Was ist Microsoft Copilot?](m01-copilot-intro/l01-copilot-basics.md) · [1.2 Copilot Chat und Apps](m01-copilot-intro/l02-copilot-app.md) | Überblick |
+| 2 · Gute Prompts schreiben | [2.1 Prompt-Formel](m02-prompting/l01-prompt-formula.md) · [2.2 Übung Koch29](m02-prompting/l02-koch29.md) · [2.3 Folgeprompts](m02-prompting/l03-follow-ups.md) | eigener Prompt |
+| 3 · Outlook | [3.1 E-Mails zusammenfassen und beantworten](m03-outlook/l01-emails.md) | geprüfter Antwortentwurf |
+| 4 · Teams | [4.1 Besprechungen und Chats](m04-teams/l01-meetings.md) | Aufgabenliste |
+| 5 · Excel | [5.1 Budgetabweichungen](m05-excel/l01-analysis.md) | Top 3 der Überschreitungen |
+| 6 · Word | [6.1 Vom Stichpunkt zum Bericht](m06-word/l01-documents.md) | Statusbericht |
+| 7 · PowerPoint | [7.1 Präsentation erstellen und vorbereiten](m07-powerpoint/l01-presentations.md) | Präsentationsentwurf |
+| 8 · Sicherer Umgang | [8.1 Prüf-Checkliste](m08-safe-use/l01-checklist.md) | Checkliste |
+
+Jedes Lab ist eine Seite: Leitfragen, Beispiele mit Prompts, Übung, Musterergebnis (aufklappbar).
 
 ## Hilfe
 
 - **Übungsdateien:** [project/](project/), jede Datei auch als `.md` zum Lesen
-- **Lösungen vergleichen:** [Teil 3](03-spickzettel-und-loesungen.md#lösungen)
-- **Nachschlagen:** [Prüf-Checkliste](03-spickzettel-und-loesungen.md#prüf-checkliste)
+- **Musterergebnisse:** am Ende jeder Übung, aufklappbar
+- **Nachschlagen:** [Spickzettel](00-spickzettel.md) · [Glossar](00-glossar.md)
 
 ---
 
